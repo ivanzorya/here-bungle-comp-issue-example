@@ -7,9 +7,9 @@
   },
   "dependencies": {
     "@here/maps-api-for-javascript": "^1.54.1",
-    "next": "v15.0.0-canary.5",
-    "react": "19.0.0-rc-f994737d14-20240522",
-    "react-dom": "19.0.0-rc-f994737d14-20240522"
+    "next": "v15.0.0-canary.27",
+    "react": "19.0.0-rc.0",
+    "react-dom": "19.0.0-rc.0"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
